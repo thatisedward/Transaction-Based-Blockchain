@@ -1,0 +1,25 @@
+The parameters of setting the blockchain framework.
+
+Total node number in the blockchian:
+Node_number 'int_node_number'
+
+Fixed clock time of this server:
+Clock_time 'int_clock_time'
+
+This node number:
+This_node_nubmer 'int_this_node_number'
+
+Maximum event number:
+Maximum_event_number 'int_maximum_event_number'
+
+Servers' name (/* The number of names equals to 'int_node_number'*/)
+* 'String_server1'
+* 'String_server2'
+...
+
+Servers' port number (/* The number of names equals to 'int_node_number'*/)
+% 'int_server1_send_port' 'int_server1_receive_port'
+% 'int_server2_send_port' 'int_server2_receive_port'
+...
+
+End

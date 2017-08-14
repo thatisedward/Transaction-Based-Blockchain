@@ -9,6 +9,14 @@ I think this project makes the following contributions:
 Implementation:
 The project has been implemented on the cluster of the shenzhen college of the university of chinese academy of sciences. As shown in the following figures, the test of throughput and tps(transaction per second) has been accomplished on 4, 8, 12, 16 nodes. 
 
+Design illustratcion:
+Figure 1. The work flow in a 4-server cluster with a leader and 3 followers.
+Figure 2. The three-layer design. Consensus layer, storage layer, query layer.
+Figure 3. The view-change. The state changed between leader, follower and candidate.
+![Figure 1. Work folw](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/work_flow.JPG)
+![Figure 2. Three-layer design](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/three_layer_design.JPG)
+![Figure 3. View-change](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/view_change.JPG)
+
 Result:
 The experimental results are not as good as I predicted because of the limitations of the router in the network. 
 

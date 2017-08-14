@@ -11,11 +11,11 @@ The project has been implemented on the cluster of the shenzhen college of the u
 
 Illustratcion:
 ![Figure 1. Work folw](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/work_flow.JPG)
-Figure 1. The work flow in a 4-server cluster with a leader and 3 followers.
+\\Figure 1. The work flow in a 4-server cluster with a leader and 3 followers.
 ![Figure 2. Three-layer design](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/three_layer_design.JPG)
-Figure 2. The three-layer design. Consensus layer, storage layer, query layer.
+\\Figure 2. The three-layer design. Consensus layer, storage layer, query layer.
 ![Figure 3. View-change](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/view_change.JPG)
-Figure 3. The view-change. The state changed between leader, follower and candidate.
+\\Figure 3. The view-change. The state changed between leader, follower and candidate.
 
 Result:
 The experimental results are not as good as I predicted because of the limitations of the router in the network. 

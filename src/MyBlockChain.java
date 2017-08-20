@@ -49,7 +49,7 @@ public class MyBlockChain {
 		@SuppressWarnings("resource")
 		PrintStream p_c = new PrintStream(createtxt);
 		
-		//Imitating the record message of 1k
+		//Imitating the record as 1k
 		for(long i = 0; i < 1024; i++) {
 			p_c.print("a");
 		}

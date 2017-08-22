@@ -15,7 +15,7 @@ Illustratcion:
 
 Figure 1. The interactions in a 4-server cluster with a leader and 3 followers.
 
-![Figure 2. Three-layer design](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/three_layer_design.JPG)
+![Figure 2. View-change](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/flow.JPG)
 
 Figure 2. The work folw in commmiting a record Ω. 
 
@@ -23,6 +23,6 @@ Figure 2. The work folw in commmiting a record Ω.
 
 Figure 3. Normal case operactions.
 
-![Figure 4. View-change](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/flow.JPG)
+![Figure 4. View-change](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/view_change.JPG)
 
 Figure 4. The view-change. The state changed between leader, follower and candidate.

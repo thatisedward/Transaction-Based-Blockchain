@@ -13,17 +13,16 @@ Illustratcion:
 
 ![Figure 1. Work folw](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/work_flow.JPG)
 
-Figure 1. The work flow in a 4-server cluster with a leader and 3 followers.
+Figure 1. The interactions in a 4-server cluster with a leader and 3 followers.
 
 ![Figure 2. Three-layer design](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/three_layer_design.JPG)
 
-Figure 2. The three-layer design. Consensus layer, storage layer, query layer.
+Figure 2. The work folw in commmiting a record Ω. 
 
-![Figure 3. View-change](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/view_change.JPG)
+![Figure 3. Two-step commit](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/dy_.JPG)
 
-Figure 3. The view-change. The state changed between leader, follower and candidate.
+Figure 3. Normal case operactions.
 
-Result:
-The experimental results are not as good as I predicted because of the limitations of the router in the network. 
+![Figure 4. View-change](https://github.com/thatisedward/Transaction-Based-Blockchain/blob/master/Screenshots/flow.JPG)
 
-Analysis:
+Figure 4. The view-change. The state changed between leader, follower and candidate.
